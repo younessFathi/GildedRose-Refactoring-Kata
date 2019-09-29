@@ -5,6 +5,7 @@ Ce qui est domandé:
 	-à la fin de chaque jour notre programme doit dégrader la valeur et reduire le nombre du 	jous.
 
 Les Test unitaires:
+
 	-Si la reduction "Sellin value" par un unité => La reduction de la "Quality value" par unité*2.
 	-Si la "Quality value" est toujours positive.
 	-Si la "Quality value" d'item "Aged Brie" ne se degrade pas
